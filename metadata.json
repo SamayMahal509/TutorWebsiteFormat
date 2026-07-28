@@ -1,0 +1,7 @@
+{
+  "name": "NOVA Math & Physics Tutoring",
+  "description": "Personalized math and physics tutoring template for middle school, high school, AP, and college students. Online and in-person sessions available with expert STEM tutors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "Overwrite": true
+}
